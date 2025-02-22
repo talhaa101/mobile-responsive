@@ -1,0 +1,10 @@
+learn overflow with direction
+
+rgba and box shadow 
+
+display inline , block ,
+
+min-width and max width for media quary
+
+how to add external font family ... have to learn 
+
